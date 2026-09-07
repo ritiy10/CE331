@@ -31,7 +31,7 @@ def new_series_map_number(lat, lon):
 
 
 # India Gate
-lat = 28.6129
-lon = 77.2296
+lat = 28.6129     #int("Enter the latitude of loaction")
+lon = 77.2296     #int("Enter the longitude of location")
 
 print(new_series_map_number(lat, lon))
